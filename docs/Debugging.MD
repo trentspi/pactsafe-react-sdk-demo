@@ -2,7 +2,7 @@
 
 You can optionally enable debugging in our React SDK library with the `debug` prop.
 
-```
+```JSX
 <PSClickWrap 
   accessId={PACTSAFE_ACCESS_ID} 
   groupKey={PACTSAFE_GROUP_KEY}
